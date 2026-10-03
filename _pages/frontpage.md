@@ -2,7 +2,7 @@
 permalink: /
 layout: home
 title: Welcome
-list_title: My blog posts
+list_title: 조각모음 중
 ---
 
 이곳은 흩어진 생각의 조각들을 모아, 더 단단한 생각으로 다듬어가는 공간입니다.
