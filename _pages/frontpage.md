@@ -5,22 +5,10 @@ title: Welcome
 list_title: My blog posts
 ---
 
-This is a template and some instructions for running Github Pages with the [`minima` theme][minima]. This repo has what I consider the minimum pieces for a personal blog using [Jekyll][jk] and [Github Pages][gh-site].
+이곳은 흩어진 생각의 조각들을 모아, 더 단단한 생각으로 다듬어가는 공간입니다.
 
-Check out the excellent [`minima` theme][minima] documentation for further details and customization and the [official docs][gh] for more details on how Github Pages work.
+일상에서 떠오른 조각, 무언가를 읽다 걸린 질문, 멍하니 있다 스친 상상. 금세 사라지는 그 조각들을 여기에 붙잡아두고 곱씹습니다.
 
-Do you have questions? feel free to [open an issue][issue] or find out how toreach me from my [contact page][contact].
+답을 내리기보다, 연결하면 무엇이 보이는지 궁금합니다. 그리고 혼자서는 다 볼 수 없으니, 오시는 분들과 나누며 함께 다듬고 싶습니다.
 
-<img src="./assets/imgs/screenshot.png" width="400px">
-
-For more details about how this example site works checkout [the github project](https://github.com/jsanz/gh-pages-minima-starter).
-
-
-Have a great day!!
-
-[gh-site]: https://pages.github.com/
-[minima]: https://github.com/jekyll/minima/tree/2.5-stable
-[jk]: https://jekyllrb.com/
-[gh]: https://help.github.com/en/github/working-with-github-pages
-[issue]: https://github.com/jsanz/gh-pages-minima-starter/issues/new/choose
-[contact]: https://jorgesanz.net/contact/
+아래에서 최근 글들을 보실 수 있습니다.
