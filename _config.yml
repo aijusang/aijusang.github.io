@@ -7,7 +7,6 @@ theme: minima
 base_url: ""
 repository: aijusang/aijusang.github.io
 # Minima social links
-github_username: aijusang
 rss: rss
 
 # Minima: show excerpts in the frontpage
