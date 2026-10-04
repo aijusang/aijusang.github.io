@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: Welcome
+title: Fragments Welcome
 list_title: 조각모음 중
 ---
 
